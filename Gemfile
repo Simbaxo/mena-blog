@@ -13,6 +13,7 @@ gem 'ckeditor', '~> 4.1'
 gem 'devise'
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 
 group :development, :test do
